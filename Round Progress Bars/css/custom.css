@@ -1,0 +1,25 @@
+/*
+* This styles the skills section of the web
+*/
+.custom_cont{
+	border-left: thick solid #ff0000;
+}
+
+.inner_content{
+	padding-left: 30px;
+	background-color: #ddd;
+}
+/*introduce padding at the botton from the main container*/
+.con{
+	padding-bottom: 10px;
+}
+
+/*Title of the*/
+.ski_title{
+	font-family: "Hermit";
+	padding-top: 10px;
+	font-size: 17px;
+}
+.ski_list{
+	list-style-type: none;
+}
