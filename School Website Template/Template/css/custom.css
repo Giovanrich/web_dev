@@ -1,0 +1,312 @@
+body {
+    background-color: #c0b18c;
+    background: url(../../css/bg/wood-bg.svg) top left #ac9766;
+}
+
+
+/*Dropdown in navigation*/
+
+
+/*Nav Bar*/
+
+.navbar {
+    min-height: 55px !important;
+    margin-bottom: 0px;
+    border-radius: 0px;
+    padding-bottom: 10px;
+}
+
+.navbar-nav>li>a, .navbar-brand {
+    padding-top: 15px !important;
+    padding-bottom: 0px !important;
+    height: 55px!important;
+}
+
+.navbar-default {
+    background-color: #0c1f31;
+    border-color: #0c1f31;
+}
+
+.navbar-default .navbar-brand {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-text {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ecf0f1;
+    font-family: 'Kurale';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu {
+    background-color: #0c1f31;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu>li>a {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu>li>a:hover, .navbar-default .navbar-nav>li>.dropdown-menu>li>a:focus {
+    color: #ffffff;
+    background-color: #c0b18c;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu>li>.divider {
+    background-color: #c0b18c;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>.active>a, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
+    color: #ffffff;
+    background-color: #c0b18c;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #ffffff;
+    background-color: #c0b18c;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    color: #ffffff;
+    background-color: #c0b18c;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #c0b18c;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #c0b18c;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ecf0f1;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #ecf0f1;
+}
+
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-link:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #ecf0f1;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+        color: #ffffff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
+        color: #ffffff;
+        background-color: #c0b18c;
+    }
+}
+
+
+/*Custom*/
+
+.main-color-bg {
+    background-color: #0c1f31 !important;
+    border-color: #312c2c !important;
+    color: #ffffff !important;
+}
+
+#main {
+    padding-bottom: 55px;
+}
+
+
+/*Header*/
+
+#header {
+    background-color: #5d6269;
+    color: #ffffff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#headerLogin {
+    background-color: #0c1f31 !important;
+    color: #ffffff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#header .create {
+    padding-top: 20px;
+}
+
+
+/*Breadcrumb*/
+
+.breadcrumb {
+    background: #cccccc;
+    color: #333333;
+}
+
+.breadcrumb a {
+    color: #333333;
+}
+
+
+/*Progress bar*/
+
+.progress-bar {
+    background: #333333;
+    color: #ffffff;
+}
+
+.dash-box {
+    text-align: center;
+    
+    
+}
+.dash-box-user{
+    
+    background-color: #e5e5e5;
+}
+.dash-box-posts{
+    
+    background-color: #83837e;
+}
+.dash-box-messages{
+    
+    background-color: #a8a8a4;
+}
+.dash-box-comments{
+    
+    background-color: #d1cccc;
+}
+
+/*Dashboard Panel*/
+ 
+/*Footer*/
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #0c1f31;
+}
+
+.footer p {
+    padding-top: 25px;
+}
+
+
+/*Login Form*/
+
+#login {
+    margin-top: 30px;
+}
+
+
+/*Panel main*/
+
+.panel-default {
+    border-color: #312c2c;
+}
+
+
+/*Create Content*/
+
+#dropdownMenu1 {
+    color: #fff;
+    background-color: #5d6269;
+    border-color: #5d6269;
+}
+
+
+/*Drop down - create Content*/
+
+.dropdown-menu>li>a:hover {
+    background-color: #5d6269;
+    color: #ffffff;
+}
+
+.dropdown-menu>li>a:focus {
+    background-color: #5d6269;
+    color: #ffffff;
+}
+
+.dropdown-menu {
+    background-color: #5d6269;
+    color: #ffffff;
+}
+
+.dropdown-menu>li>a {
+    color: #ffffff;
+}
+
+
+/*Table*/
+
+td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /*display: block;*/
+}
+
+
+/*Default buttons*/
+
+.btn-default {
+    color: #fff;
+    background-color: #0c1f31;
+    border-color: #c0b18c;
+}
+
+
+/*Panel Latest Post*/
+
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: #0c1f31;
+    border-color: #ddd;
+}
+
+
+/*Form errors*/
+
+form .error {
+    color: #ff0000;
+}
+
+
+/* Admin Fonts*/
+
+#heading {
+    font-family: 'Lobster Two';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.panel-title {
+   font-family: 'Kurale';
+  font-style: normal;
+  font-weight: 400;
+}
