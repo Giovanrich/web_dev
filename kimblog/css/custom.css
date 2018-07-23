@@ -1,0 +1,8 @@
+.jumbotron{
+    background: url("../images/4.jpg") no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+}
