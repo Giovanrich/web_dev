@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Element by Id, innerHTML</title>
+	<script type="text/javascript">
+		function substitute () {
+			var valueTyped=document.getElementById('myText').value;
+			if (valueTyped.length==0) {
+				alert('Please enter a value in the text box');
+				return;
+			}
+			var titleVar=document.getElementById('title');
+			titleVar.innerHTML=valueTyped;
+
+
+
+		}
+	</script>
+</head>
+<body>
+
+ <h1 id="title"> Helo over there</h1>
+ <input type="text" id="myText" />
+ <input type="submit" id="click" onclick="substitute() " />
+
+</body>
+</html>

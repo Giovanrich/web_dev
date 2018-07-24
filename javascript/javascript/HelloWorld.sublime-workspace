@@ -1,0 +1,880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"_",
+				"_admin"
+			],
+			[
+				"I",
+				"important"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"user",
+				"user_error"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"st",
+				"stmnt"
+			],
+			[
+				"unset",
+				"session_unset"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"date",
+				"dateFormat"
+			],
+			[
+				"button",
+				"button	Tag"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"i",
+				"instances"
+			],
+			[
+				"bo",
+				"bodyPara"
+			],
+			[
+				"C",
+				"CKEDITOR"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"add",
+				"addMethod"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"ch",
+				"changePasswordModal"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"confi",
+				"confirm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"changePass",
+				"changePasswordForm"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"sub",
+				"submitHandler"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"lo",
+				"Location"
+			],
+			[
+				"sq",
+				"sql"
+			],
+			[
+				"coma",
+				"command"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"edi",
+				"editModal"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"s",
+				"stmnt"
+			],
+			[
+				"se",
+				"server_users"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ip",
+				"input"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"va",
+				"valueTyped"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"can",
+				"cancel"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"exp",
+				"expDate"
+			],
+			[
+				"ex",
+				"expDate"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"re",
+				"req1	require_once …"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"vi",
+				"viewData"
+			],
+			[
+				"pr",
+				"prepare"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mysqli_",
+				"mysqli_execute"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"Jo",
+				"JosefinSlab"
+			],
+			[
+				"sty",
+				"style	Tag"
+			],
+			[
+				"conta",
+				"Contact"
+			],
+			[
+				"me",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"headr",
+				"header"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"b",
+				"border	Attr"
+			],
+			[
+				"DB",
+				"DB_NAME"
+			],
+			[
+				"sql",
+				"sql_qry"
+			],
+			[
+				"wid",
+				"widows"
+			],
+			[
+				"H",
+				"H1	Tag"
+			],
+			[
+				"ses",
+				"ses_sql"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"D",
+				"DB_NAME"
+			],
+			[
+				"def",
+				"def	define(…, …)"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"S",
+				"SERVER"
+			],
+			[
+				"mysqlfe",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"mysqlerr",
+				"mysql_error"
+			],
+			[
+				"emp",
+				"emp_id"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"mys",
+				"mysqli_connect"
+			],
+			[
+				"d",
+				"database"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"buil",
+				"build"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"boo",
+				"bootbox"
+			],
+			[
+				"btn",
+				"btnDonate"
+			],
+			[
+				"do",
+				"donate"
+			],
+			[
+				"pro",
+				"pro_price"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"produc",
+				"product_images"
+			],
+			[
+				"product_t",
+				"product_image_tmp"
+			],
+			[
+				"product_d",
+				"product_desc"
+			],
+			[
+				"product",
+				"product_cat"
+			],
+			[
+				"product_",
+				"product_keywords"
+			],
+			[
+				"product_c",
+				"product_cat2"
+			],
+			[
+				"insert",
+				"insert_product"
+			],
+			[
+				"bra",
+				"brand_id"
+			],
+			[
+				"cat",
+				"cat_id"
+			],
+			[
+				"op",
+				"option"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/JWizard/Downloads/trident-all/src/org/pushingpixels/trident/Timeline.java",
+			"settings":
+			{
+				"buffer_size": 20796,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 140.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/JWizard/AppData/Roaming/Mozilla/Firefox/Profiles/qkl9bqro.default/sessionstore.js",
+		"/C/workspace/Duno/src/duno/Quotation.java",
+		"/C/workspace/Duno/src/duno/QETableModel.java",
+		"/C/xampp/htdocs/school/_admin/logout.php",
+		"/C/xampp/htdocs/school/_admin/index.php",
+		"/C/xampp/htdocs/school/_admin/post.php",
+		"/C/xampp/htdocs/school/_admin/post_base.js",
+		"/C/xampp/htdocs/school/_admin/post_base.php",
+		"/C/xampp/htdocs/school/_admin/messages.php",
+		"/C/xampp/htdocs/school/_admin/users.php",
+		"/C/xampp/htdocs/school/_admin/edit_news.php",
+		"/C/xampp/htdocs/school/_admin/comments.php",
+		"/C/xampp/htdocs/school/_admin/server_users.php",
+		"/C/xampp/htdocs/school/_admin/category.php",
+		"/C/xampp/htdocs/school/_admin/login.php",
+		"/C/xampp/htdocs/school/_admin/login_base.php",
+		"/C/xampp/htdocs/school/accordion.php",
+		"/C/xampp/htdocs/school/index.php",
+		"/C/xampp/htdocs/school/css/custom.css",
+		"/C/xampp/htdocs/school/css/fonts.css",
+		"/C/xampp/htdocs/school/index.html",
+		"/C/xampp/htdocs/school/_admin/css/custom.css",
+		"/C/Users/JWizard/Downloads/Gateway/_Our Vision and Mission__files/custom.css",
+		"/C/xampp/htdocs/school/_admin/server_news.php",
+		"/C/xampp/htdocs/school/_admin/save_edit_post.js",
+		"/C/xampp/htdocs/school/_admin/footer.php",
+		"/C/xampp/htdocs/school/_admin/login_check.php",
+		"/C/xampp/htdocs/school/_admin/users_base.js",
+		"/C/xampp/htdocs/school/_admin/load_latest_post.js",
+		"/C/xampp/htdocs/school/_admin/update_news.php",
+		"/C/xampp/htdocs/school/_admin/edit_post_base.php",
+		"/C/xampp/htdocs/school/_admin/change_password_base.php",
+		"/C/xampp/htdocs/school/_admin/edit.php",
+		"/C/xampp/htdocs/school/_admin/tryCKValidation.php",
+		"/C/xampp/htdocs/school/_admin/change_password_base.js",
+		"/C/xampp/htdocs/school/_admin/change_password_form.php",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/school/_admin/js/jquery-3.1.1.min.js",
+		"/C/xampp/htdocs/school/_admin/email_regex.php",
+		"/C/xampp/htdocs/school/_admin/conn/config.php",
+		"/C/xampp/htdocs/school/_admin/postbase.php",
+		"/C/xampp/htdocs/school/_admin/jjjj.php",
+		"/C/xampp/htdocs/login-script/login.php",
+		"/C/xampp/htdocs/login-script/check.php",
+		"/C/xampp/htdocs/Admin/login.php",
+		"/F/Web Development/tools/templates/Bootstrap-3-Offline-Docs-master/Bootstrap-3-Offline-Docs-master/examples/sticky-footer-navbar/sticky-footer-navbar.css",
+		"/C/xampp/htdocs/school/_admin/pages.php",
+		"/C/xampp/htdocs/summernote/index.php",
+		"/C/xampp/htdocs/school/admin/_news_server.php",
+		"/C/xampp/htdocs/ajax/index.php",
+		"/C/xampp/htdocs/ajax/server.php",
+		"/C/xampp/htdocs/school/admin/_news.php",
+		"/C/xampp/htdocs/school/_admin/drive_letters.php",
+		"/C/xampp/htdocs/school/admin/_user_server.php",
+		"/C/xampp/htdocs/school/admin/_users.php",
+		"/C/xampp/htdocs/school/_admin/config.php",
+		"/C/xampp/htdocs/Admin/post.php",
+		"/C/xampp/htdocs/Admin/users.php",
+		"/C/xampp/htdocs/Admin/edit.php",
+		"/C/xampp/htdocs/Admin/css/custom.css",
+		"/C/xampp/htdocs/Admin/pages.php",
+		"/C/xampp/htdocs/Admin/index.php",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/xampp/htdocs/JavaScript/ElementById.html",
+		"/C/xampp/htdocs/JavaScript/HelloWorld.html",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/xampp/htdocs/school/admin/_admin.php",
+		"/C/Users/JWizard/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/JWizard/Downloads/simple_ajax_form/process.php",
+		"/C/Users/JWizard/Downloads/simple_ajax_form/form.php",
+		"/C/xampp/htdocs/school/admin/_navigation.php",
+		"/C/xampp/htdocs/school/admin/addNews.php",
+		"/C/xampp/htdocs/school/css/summernote.css",
+		"/C/xampp/htdocs/school/css/_admin_custom.css",
+		"/C/xampp/htdocs/school/css/section-headers.css",
+		"/C/xampp/htdocs/school/admin/_users - Copy.php",
+		"/C/xampp/htdocs/school/admin/conn/config.php",
+		"/C/xampp/htdocs/school/admin/index.php",
+		"/C/xampp/htdocs/blog/css/custom.css",
+		"/C/xampp/htdocs/blog/index.php",
+		"/C/xampp/htdocs/school/css/gallery.css",
+		"/C/xampp/htdocs/school/css/carousel_testimonials.css",
+		"/C/xampp/htdocs/school/css/bquote.css",
+		"/C/Users/JWizard/components/com_banners/banners.php",
+		"/C/Users/JWizard/cli/update_cron.php",
+		"/C/xampp/htdocs/school/css/newspage.css",
+		"/C/xampp/htdocs/crud/index.php",
+		"/C/xampp/htdocs/crud/insert.php",
+		"/C/xampp/htdocs/crud/sever.php",
+		"/C/xampp/htdocs/crud/delete.php",
+		"/C/xampp/htdocs/crud/add.php",
+		"/C/xampp/htdocs/crud/conn/config.php",
+		"/C/xampp/htdocs/modalajax/index.php",
+		"/C/xampp/htdocs/ajax/ajax/updateUserDetails.php",
+		"/C/xampp/htdocs/ajax/ajax/readUserDetails.php",
+		"/C/xampp/htdocs/ajax/ajax/readRecords.php",
+		"/C/xampp/htdocs/ajax/ajax/deleteUser.php",
+		"/C/xampp/htdocs/ajax/ajax/db_connection.php",
+		"/C/xampp/htdocs/ajax/ajax/addRecord.php",
+		"/C/Users/JWizard/Downloads/bootstrap-modal-form-submit-with-ajax-php/ModalWithAjax/index.php",
+		"/C/Users/JWizard/Downloads/bootstrap-modal-form-submit-with-ajax-php/ModalWithAjax/feedback.php",
+		"/C/Users/JWizard/Downloads/bootstrap-modal-form-submit-with-ajax-php/ModalWithAjax/header.php",
+		"/C/Users/JWizard/Downloads/bootstrap-modal-form-submit-with-ajax-php/ModalWithAjax/script/form_process.js",
+		"/C/Users/JWizard/Downloads/bootstrap-modal-form-submit-with-ajax-php/ModalWithAjax/container.php",
+		"/C/Users/JWizard/Downloads/bootstrap-modal-form-submit-with-ajax-php/ModalWithAjax/footer.php",
+		"/C/Users/JWizard/Downloads/bootstrap-modal-form-submit-with-ajax-php/bootstrap-modal-form-submit-with-ajax-php/script/form_process.js",
+		"/C/xampp/htdocs/bootstraptable/edit.php",
+		"/C/xampp/htdocs/bootstraptable/config.php",
+		"/C/xampp/htdocs/bootstraptable/add.html",
+		"/C/xampp/htdocs/bootstraptable/ajax/deleteUser.php",
+		"/C/xampp/htdocs/bootstraptable/ajax/db_connection.php",
+		"/C/xampp/htdocs/bootstraptable/ajax/readRecord.php",
+		"/C/xampp/htdocs/bootstraptable/ajax/addRecord.php",
+		"/C/xampp/htdocs/bootstraptable/js/updateUserDetails.php",
+		"/C/xampp/htdocs/bootstraptable/js/script.js",
+		"/C/xampp/htdocs/bootstraptable/index.php",
+		"/C/xampp/htdocs/bootstraptable/ajax/readUser.php",
+		"/C/xampp/htdocs/boostraptable/response.php",
+		"/C/xampp/htdocs/boostraptable/connection.php",
+		"/C/xampp/htdocs/boostraptable/index.php",
+		"/C/Users/JWizard/Downloads/bootstrap_datatable_with_add_edit_remove_option (1)/datatable.php",
+		"/C/xampp/htdocs/formvalidation/index.php",
+		"/C/xampp/htdocs/formvalidation/function.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!DOCTYPE html>\n\n<head>\n	<title>Element by Id, innerHTML</title>\n	<script type=\"text/javascript\">\n		function substitute () {\n			var valueTyped=document.getElementById('myText').value;\n			if (valueTyped.length==0) {\n				alert('Please enter a value in the text box');\n				return;\n			}\n			var titleVar=document.getElementById('title');\n			titleVar.innerHTML=valueTyped;\n\n\n\n		}\n	</script>\n</head>\n<body>\n\n <h1 id=\"title\"> Helo over there</h1>\n <input type=\"text\" id=\"myText\" />\n <input type=\"submit\" id=\"click\" onclick=\"substitute() \" />\n\n</body>\n</html>",
+			"<!DOCTYPE html>\n<html>\n<head>\n	<title>Element by Id, innerHTML</title>\n	<script type=\"text/javascript\">\n		function substitute () {\n			var valueTyped=document.getElementById('myText').value;\n			if (valueTyped.length==0) {\n				alert('Please enter a value in the text box');\n				return;\n			}\n			var titleVar=document.getElementById('title');\n			titleVar.innerHTML=valueTyped;\n\n\n\n		}\n	</script>\n</head>\n<body>\n\n <h1 id=\"title\"> Helo over there</h1>\n <input type=\"text\" id=\"myText\" />\n <input type=\"submit\" id=\"click\" onclick=\"substitute() \" />\n\n</body>\n</html>",
+			"<html>\n<head>\n	<title>High School -Admin.</title>\n	<meta charset=\"utf-8\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"../css/bootstrap.min.css\">\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"../css/_admin_custom.css\">\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"../css/jquery-confirm.min.css\">\n\n</head>\n<body onload=\"viewData()\">\n			<?php\n				require_once '_navigation.php';\n			 ?>\n		<div id=\"successMessage\" style=\"display:none;\" class=\"container\"> It worked </div>\n		<div id=\"failMessage\" style=\"display:none;\" class=\"container\"> It failed </div>\n		<div class=\"container\">\n			 	<div class=\"space\"></div>\n			 	<button class=\"btn btn-primary\" data-toggle=\"modal\" data-target=\"#addData\">Add User</button>\n\n			 	     <!-- Modal to add user-->\n			          <div class=\"modal fade\" id=\"addData\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"addLabel\">\n			            <div class=\"modal-dialog\" role=\"document\">\n			              <div class=\"modal-content\">\n			                <div class=\"modal-header\">\n			                  <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>\n			                  <h4 class=\"modal-title\" id=\"addlLabel\">Add User</h4>\n			                </div>\n			                <form>\n			                <div class=\"modal-body\">\n			                 \n			                <div class=\"form-group\">\n			                    <label for=\"username\">Userame</label>\n			                    <input type=\"text\" class=\"form-control\" id=\"username\" placeholder=\"User\">\n			                  </div>\n\n			                  <div class=\"form-group\">\n			                    <label for=\"name\">Name</label>\n			                    <input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Name\">\n			                  </div>\n\n			                  <div class=\"form-group\">\n			                    <label for=\"surname\">Surname</label>\n			                    <input type=\"text\" class=\"form-control\" id=\"surname\" placeholder=\"Surname\">\n			                  </div>\n\n			                  <div class=\"form-group\">\n			                    <label for=\"Email\">Email</label>\n			                    <input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"tom@example.com\">\n			                  </div>\n			                  <div class=\"form-group\">\n			                    <label for=\"cell\">Cell</label>\n			                    <input type=\"tel\" class=\"form-control\" id=\"cell\" placeholder=\"Cell\">\n			                  </div>\n\n			                  <div class=\"form-group\">\n			                    <label for=\"password\">Password</label>\n			                    <input type=\"password\" class=\"form-control\" id=\"password\" placeholder=\"Password\">\n			                  </div>\n\n			                  <div class=\"form-group\">\n			                    <label for=\"confirm\">Confirm Password</label>\n			                    <input type=\"password\" class=\"form-control\" id=\"confirm\" placeholder=\"Confirm Password\">\n			                  </div>\n\n			                </div>\n			                <div class=\"modal-footer\">\n			                  <button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Close</button>\n			                  <button type=\"button\" onclick=\"saveData()\"class=\"btn btn-primary\">Save</button>\n			                </div>\n			                </form>\n			              </div>\n			            </div>\n			          </div>\n\n			 	<br/>\n\n				<table class=\"table table-bordered tablestriped\">\n		          <thead>\n		            <tr>\n		              <th width=\"40\">ID</th>\n		              <th>Username</th>\n		              <th>Name</th>\n		              <th>Surname</th>\n		              <th>Email</th>\n		              <th>Cell</th>\n		              <th width=\"180\">Action</th>\n		            </tr>\n		          </thead>\n		          <tbody>\n		            <!--On page load data is coming here-->\n		          </tbody>\n		        </table>\n	   </div>\n 			\n   <script type=\"text/javascript\" src=\"../js/jquery-3.1.1.min.js\"></script>\n   <script type=\"text/javascript\" src=\"../js/jquery-confirm.min.js\"></script>\n   <script type=\"text/javascript\" src=\"../js/bootstrap.min.js\"></script>\n   <script>\n   //Load data to the table on page load\n   		function viewData(){\n        $.ajax({\n          type:\"GET\",\n          url:\"_user_server.php?p=load\",\n          success:function(data){\n            $('tbody').html(data);\n          }\n        });\n      }\n\n      //Add new user\n        function saveData(){\n        var username=$('#username').val();\n        var name=$('#name').val();\n        var surname=$('#surname').val();\n        var email=$('#email').val();\n        var cell=$('#cell').val();\n        var password=$('#password').val();\n        //event.preventDefault();//prevent the page from refresh\n        $.ajax({\n           type:\"post\",\n           url:\"_user_server.php?p=add\",\n           data:{username:username,name:name,surname:surname,email:email,cell:cell,password:password},\n           success: function(data){\n           	\n           	//$(\"#failMessage\").show();\n           	$('#successMessage').css(\"display\",\"block\");\n            viewData();\n        if (data==\"Failed!\") { \n        	console.log(data);\n            \n\n	        } else if(data==\"Inserted\"){\n	        	console.log(data); \n	            //$(\"#successMessage\").show();\n	             $('#successMessage').css(\"display\",\"block\");\n	        }\n    	}\n    });}\n      \n\n      //Delete user\n       function deleteData(str){\n        var id=str;\n       $.confirm({\n                title: 'Confirm!',\n                content: 'Do you want to delete user?!',\n                  buttons: {\n                           confirm: function () {\n                                       $.ajax({\n                                                type:\"GET\",\n                                                 url:\"_user_server.php?p=del\",\n                                                 data:{id:id},\n                                                success:function(data){\n                                                                  viewData();\n                                                                       }\n                                             });\n                                               },\n                            cancel: function () {\n                                      //   $.alert('Canceled!');\n                                                },\n        \n                            }\n	               });\n               }\n\n      //Edit User\n      function updateData(str){\n        var id=str;\n        var username=$('#username-'+str).val();\n        var name=$('#name-'+str).val();\n        var surname=$('#surname-'+str).val();\n        var email=$('#email-'+str).val();\n        var cell=$('#cell-'+str).val();\n        \n\n        $.ajax({\n          type:\"POST\",\n          url:\"_user_server.php?p=edit\",\n          data:{username:username,name:name,surname:surname,email:email,cell:cell,id:id},\n          success:function(data){\n            viewData();\n          }\n        });\n      }\n   </script>\n</body>\n</html>",
+			"<?php \n\ninclude 'conn/config.php';\n\n\n        $command=isset($_GET['p'])?$_GET['p']:'';\n \n		if($command=='add'){//Add fuction\n			// Avoid SQL Injection Here!!!\n			$owner=$_POST['owner'];\n			$title=$_POST['title'];\n			$content=$_POST['content'];\n			$expDate=$_POST['expDate'];\n			date_default_timezone_set('Africa/Harare');\n            $date = date('m/d/Y h', time());\n			$dateOfPosting=  $date;\n			\n            \n			$stmnt=$db->prepare(\"INSERT INTO news VALUES('',?,?,?,?,?)\");\n		$stmnt->bindParam(1,$title);\n		$stmnt->bindParam(2,$owner);\n			$stmnt->bindParam(3,$content);\n		$stmnt->bindParam(4,$dateOfPosting);\n			$stmnt->bindParam(5,$expDate);\n			\n\n			if(!$stmnt->execute()){\n				print_r($stmnt->errorInfo());\n\n			}else{\n				echo \"Insert\";\n			}\n\n		}else if($command=='del'){//Delete fuction\n			$id=$_GET['id'];\n            $stmt=$db->prepare(\"delete from news where id=?\");\n            $stmt->bindParam(1,$id);\n            if ($stmt->execute()) {\n     	        echo \"Success delete\";\n		     }else{\n		     	echo \"Fail delete\".mysqli_error();\n		     }\n\n		}else if($command=='edit'){///Edit function\n			// Avoid SQL Injection Here!!!\n			$id=$_POST['id'];\n			$title=$_POST['title'];\n			$content=$_POST['content'];\n			$expDate=$_POST['expDate'];\n			\n\n			$stmnt=$db->prepare(\"update news set title=?,content=?,expDate=? where id=?\");\n			$stmnt->bindParam(1,$title);\n			$stmnt->bindParam(2,$content);\n			$stmnt->bindParam(3,$expDate);\n			$stmnt->bindParam(4,$id);\n			\n			if (!$stmnt->execute()) {\n		     	print_r($stmnt->errorInfo());\n		     }else{\n		     	echo \"Updated\";\n		     }\n\n		}else if($command=='load'){//Load\n			$stmnt=$db->prepare(\"SELECT * FROM news\");\n			$stmnt->execute();\n			while ($row=$stmnt->fetch()) {\n				?>\n\n                <tr>\n                	<td><?php echo $row['id'] ?></td>\n                	<td><?php echo $row['title'] ?></td>\n                	<td class=\"text\"><span><?php echo $row['content'] ?></span></td>\n                	<td><?php echo $row['expDate'] ?></td>\n                	\n\n                	<td>\n                	 <button class=\"btn btn-warning\"  data-toggle=\"modal\" data-target=\"#edit-<?php echo $row['id']?>\">Edit</button>\n						<!-- Modal -->\n						<div class=\"modal fade\" id=\"edit-<?php echo $row['id']?>\" tabindex=\"-1\" role=\"dialog\" \n						  aria-labelledby=\"editLabel-<?php echo $row['id']?>\">\n						  <div class=\"modal-dialog\" role=\"document\">\n						    <div class=\"modal-content\">\n						      <div class=\"modal-header\">\n						        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>\n						        <h4 class=\"modal-title\" id=\"editLabel-<?php echo $row['id']?>\">Edit News</h4>\n						      </div>\n						      <form>\n						      <div class=\"modal-body\">\n\n						      <!--Modal Componets-->\n						    <div class=\"form-group\">\n						      <input type=\"hidden\"   id=\"<?php echo $row['id']?>\" value=\"<?php echo $row['id']?>\" >\n		                      <label for=\"title\">Title</label>\n		                      <input type=\"text\" class=\"form-control\" id=\"title-<?php echo $row['id']?>\" value=\"<?php echo $row['title']?>\" >\n		                    </div>\n\n		                    <div class=\"form-group\">\n		                      <label for=\"content\">Content</label>\n		                      <textarea class=\"form-control\" id=\"content-<?php echo $row['id']?>\" rows=\"10\">\n		                      <?php echo $row['content']?></textarea>\n		                    </div>\n\n		                   <div class=\"form-group\">\n		                    <label for=\"expDate\">Exp. Date</label>\n		                    <input type=\"date\" class=\"form-control\" id=\"expDate-<?php echo $row['id']?>\" value=\"<?php echo $row['expDate']?>\" >\n		                   </div>\n\n\n						      </div> \n							      <div class=\"modal-footer\">\n							        <button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Close</button>\n							        <button type=\"submit\" onclick=\"updateData(<?php echo $row['id']?>)\" class=\"btn btn-primary\">Save</button>\n							      </div>\n						      </form>\n						    </div>\n						  </div>\n						</div>\n						<button onclick=\"deleteData(<?php echo $row['id']?>)\" class=\"btn btn-danger\">Delete</button>\n                	</td>\n                </tr>\n				<?php \n			}\n\n		}else{\n			//Do nothing\n		}\n\n ?>",
+			"	$stmnt->bindParam(1,$title);\n		$stmnt->bindParam(2,$owner);\n			$stmnt->bindParam(3,$content);\n		$stmnt->bindParam(4,$dateOfPosting",
+			"<?php \n\ninclude 'conn/config.php';\n\n\n        $command=isset($_GET['p'])?$_GET['p']:'';\n \n		if($command=='add'){//Add fuction\n			// Avoid SQL Injection Here!!!\n			$owner=$_POST['owner'];\n			$title=$_POST['title'];\n			$content=$_POST['content'];\n			$expDate=$_POST['expDate'];\n			date_default_timezone_set('Africa/Harare');\n            $date = date('m/d/Y h', time());\n			$dateOfPosting=  $date;\n			\n            \n			$stmnt=$db->prepare(\"INSERT INTO news VALUES('',?,?,?,?,?)\");\n		$stmnt->bindParam(1,$title);\n		$stmnt->bindParam(2,$owner);\n			$stmnt->bindParam(3,$content);\n		$stmnt->bindParam(4,$dateOfPosting);\n			$stmnt->bindParam(5,$expDate);\n			\n\n			if(!$stmnt->execute()){\n				print_r($stmnt->errorInfo());\n\n			}else{\n				echo \"Insert\";\n			}\n\n		}else if($command=='del'){//Delete fuction\n			$id=$_GET['id'];\n            $stmt=$db->prepare(\"delete from news where id=?\");\n            $stmt->bindParam(1,$id);\n            if ($stmt->execute()) {\n     	        echo \"Success delete\";\n		     }else{\n		     	echo \"Fail delete\".mysqli_error();\n		     }\n\n		}else if($command=='edit'){///Edit function\n			// Avoid SQL Injection Here!!!\n			$id=$_POST['id'];\n			$title=$_POST['title'];\n			$content=$_POST['content'];\n			$expDate=$_POST['expDate'];\n			\n\n			$stmnt=$db->prepare(\"update news set title=?,content=?,expDate=? where id=?\");\n			$stmnt->bindParam(1,$title);\n			$stmnt->bindParam(2,$content);\n			$stmnt->bindParam(3,$expDate);\n			$stmnt->bindParam(4,$id);\n			\n			if (!$stmnt->execute()) {\n		     	print_r($stmnt->errorInfo());\n		     }else{\n		     	echo \"Updated\";\n		     }\n\n		}else if($command=='load'){//Load\n			$stmnt=$db->prepare(\"SELECT * FROM news\");\n			$stmnt->execute();\n			while ($row=$stmnt->fetch()) {\n				?>\n\n                <tr>\n                	<td><?php echo $row['id'] ?></td>\n                	<td><?php echo $row['title'] ?></td>\n                	<td class=\"text\"><span><?php echo $row['content'] ?></span></td>\n                	<td><?php echo $row['expDate'] ?></td>\n                	\n\n                	<td>\n                	 <button class=\"btn btn-warning\"  data-toggle=\"modal\" data-target=\"#edit-<?php echo $row['id']?>\">Edit</button>\n						<!-- Modal -->\n						<div class=\"modal fade\" id=\"edit-<?php echo $row['id']?>\" tabindex=\"-1\" role=\"dialog\" \n						  aria-labelledby=\"editLabel-<?php echo $row['id']?>\">\n						  <div class=\"modal-dialog\" role=\"document\">\n						    <div class=\"modal-content\">\n						      <div class=\"modal-header\">\n						        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>\n						        <h4 class=\"modal-title\" id=\"editLabel-<?php echo $row['id']?>\">Edit News</h4>\n						      </div>\n						      <form>\n						      <div class=\"modal-body\">\n\n						      <!--Modal Componets-->\n						    <div class=\"form-group\">\n						      <input type=\"hidden\"   id=\"<?php echo $row['id']?>\" value=\"<?php echo $row['id']?>\" >\n		                      <label for=\"title\">Title</label>\n		                      <input type=\"text\" class=\"form-control\" id=\"title-<?php echo $row['id']?>\" value=\"<?php echo $row['title']?>\" >\n		                    </div>\n\n		                    <div class=\"form-group\">\n		                      <label for=\"content\">Content</label>\n		                      <textarea class=\"form-control\" id=\"content-<?php echo $row['id']?>\" rows=\"10\">\n		                      <?php echo $row['content']?></textarea>\n		                    </div>\n\n		                   <div class=\"form-group\">\n		                    <label for=\"expDate\">Exp. Date</label>\n		                    <input type=\"date\" class=\"form-control\" id=\"expDate-<?php echo $row['id']?>\" value=\"<?php echo $row['expDate']?>\" >\n		                   </div>\n\n\n						      </div> \n							      <div class=\"modal-footer\">\n							        <button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Close</button>\n							        <button type=\"submit\" onclick=\"updateData(<?php echo $row['id']?>)\" class=\"btn btn-primary\">Save</button>\n							      </div>\n						      </form>\n						    </div>\n						  </div>\n						</div>\n						<button onclick=\"deleteData(<?php echo $row['id']?>)\" class=\"btn btn-danger\">Delete</button>\n                	</td>\n                </tr>\n				<?php \n			}\n\n		}else{\n			//Do nothing\n		}\n\n ?>",
+			"}\n",
+			"<?",
+			"events",
+			".com",
+			"mobirise",
+			"carousel-caption",
+			"lead",
+			"Heading",
+			"pattern",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/JWizard/Downloads/trident-all/src/org/pushingpixels/trident/Timeline.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6955.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HelloWorld.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Admin\\css\\custom.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
