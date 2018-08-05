@@ -1,0 +1,153 @@
+ 
+
+/*css reset to remove all browser default settings*/
+
+ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,
+ p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,
+ dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,
+ var,b,u,i,center,dl,dt,dd,ol,li,fieldset,form,label,legend,
+ table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,
+ details,embed,figure,figcaption,footer,header,hgroup,menu,
+ nav,output,ruby,section,summary,time,mark,audio,video,
+ {
+ 	margin: 0;
+ 	padding: 0;
+ 	border: 0;
+ 	vertical-align: baseline; 
+
+ }
+
+ /*html5 display-role reset for older browsers*/
+ article,aside,details,figcaption,figure,footer,header,
+ hgroup,menu,nav,section{
+ 	display: block;
+ }
+
+ body{
+ 	background: skyblue;
+ }
+
+ .main_wrapper{
+ 	width: 1000px;
+ 	height: auto;
+ 	margin: auto;
+ }
+ .header_wrapper{
+ 	width: 1000px;
+ 	height: 100;
+ 	margin: auto; 
+ }
+ #logo{
+ 	float: left;
+
+ }
+ #banner{
+ 	float: right;
+ }
+
+ .content_wrapper{
+ 	width: 1000px;
+ 	margin: auto;
+ 	background: pink;
+
+ }
+
+.menubar{
+	width: 1000px;
+	height: 50px;
+	background: gray;
+}
+
+#menu{
+	padding: 0;
+	margin: 0;
+	line-height: 40px;
+	float: left;
+
+}
+#menu li{
+	list-style: none;
+	display: inline;
+}
+#menu a{
+	text-decoration: none;
+	color: white;
+	padding:8 px;
+	margin: 5px;
+	font-size: 18px;
+	font-family:  COMIC SANS MS;
+
+
+
+}
+
+#product_box{
+
+width: 780px;
+text-align: center;
+margin-left: 30px;
+margin-bottom: 10px;
+
+}
+#single_product{
+	float: left;
+	margin-left:20px;padding:10px;  
+}
+#form{
+	float: right;
+	padding: 8px;
+	line-height: 40px;
+
+}
+#menu a:hover{
+	color: orange;
+	font-weight: bolder;
+	text-decoration: underline;
+
+}
+ #content_area{
+ 	width: 800px;
+ 	float: right;
+ 	background: pink;
+
+ } 
+#sidebar{
+	width: 200px;
+ 	background: black;
+ 	float: left;
+}
+
+#sidebar_title{
+	background: white;
+	color: black;
+	font-size: 22px;
+	font-family: Arial;
+	padding: 10px;
+	text-align: center;
+}
+#cats{
+	padding: 0px;
+	text-align: center;
+}
+#cats li{
+	list-style: none;
+	display: block; margin: 5px; 
+}
+#cats a{
+	color: white;
+	text-align: center; margin: 10px; padding: 8px;
+	text-decoration: none; font-family: COMIC SANS MS;
+	font-size: 20px;
+
+}
+
+#cats a:hover{
+	color: orange;
+	font-weight: bold;text-decoration: underline;
+}
+#footer{
+	width: 1000px;
+	height: 100px;
+	background: gray;
+	clear: both;
+}
