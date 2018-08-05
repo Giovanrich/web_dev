@@ -1,0 +1,31 @@
+
+
+
+/*-------------------------------------------------------
+This is responisble for creating the space between the nav
+bar and the carousel
+*--------------------------------------------------------*/
+body{
+	padding-top: 55px;
+	padding-bottom: 50px;
+	background: url("styling_images/content.png");
+}
+
+.navbar{
+	background: url("styling_images/header-footer.png");
+}
+
+
+/*this is to change color of carousel caption*/
+#carousel_header{
+    color: white;
+}
+
+
+footer {
+    background: url("styling_images/header-footer.png");
+    padding: 30px 30 30px 30;
+    font-weight: bold;
+    color: white;
+    
+}
